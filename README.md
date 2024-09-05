@@ -1,8 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div align="center"> 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-**My name is Vasyl Lysyy**
+<div align="center">
+<summary><h2>*** Hi there 👋 my name is Vasyl Lysyy ***</h2></summary>
 
 ### **I am exiting to intriduce Myself!**
 
@@ -34,7 +35,8 @@ I'm a QA Automation AI Engineer with a strong foundation in both Automation and 
 </details>
 </div>
 
-### 🚀 My LinkedIn profile:
+<div align="center">
+<summary><h2>🚀 My LinkedIn profile:</h2></summary>
 
 [![Linkedin Badge](https://img.shields.io/badge/-VasylLysyy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-lysyy/)
 
