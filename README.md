@@ -1,32 +1,41 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center"> 
+
+**My name is Vasyl Lysyy**
+
+### **I am exiting to intriduce Myself!**
+
+
+I'm a QA Automation AI Engineer with a strong foundation in both Automation and Manual Testing, always striving for excellence in software quality. With experience in IT, I thrive in dynamic startup environments, specializing in Agile methodologies and risk management. I enjoy working collaboratively to drive project success and exceed quality standards. Outside of work, I'm an avid learner inspired by technology, travel, and spending time with family. My passion for detail and commitment to quality extend beyond the office, influencing every project I tackle.
+
+
+<details open>
+  <summary><h2>🛠 Languages and Tools:</h2></summary>
+  <p>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+    <code><img width="3%" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+    <code><img width="3%" src="https://i.imgur.com/tjPOPhB.png"></code>
+    <code><img width="3%" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/pycharm_icon.svg"></code>
+    <code><img width="3%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+    <code><img width="3%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
+    <code><img width="3%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
+    <code><img width="3%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
+    <code><img width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Neos_VR_Logo.png"></code>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+    <code><img width="3%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+    <code><img width="3%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
+  </p>
+</details>
 </div>
-## Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="firefox" alt="firefox" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" alt="google" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="opera" alt="opera" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 
-<!--
-**Vasyl1982/Vasyl1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 My LinkedIn profile:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-VasylLysyy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-lysyy/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
